@@ -3,8 +3,8 @@ name: Scrape Lens
 metadata:
   description: Live word-level diff for Details/Synopsis, tag highlighting, and image
     resolution display in Stash scrape result modals.
-version: 1.0.1-45b9063
-date: "2026-05-18 11:42:22"
+version: 1.0.1-86a31c8
+date: "2026-06-29 12:40:34"
 requires: []
 source_repository: https://rchrdcho.github.io/StashPlugins/main/index.yml
 files:
